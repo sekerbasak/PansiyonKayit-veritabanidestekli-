@@ -1,5 +1,6 @@
 # PansiyonKayit-veritabanidestekli-
 UYGULAMAMIN TANITIMI
+
 • Yapmış olduğum pansiyon kayıt uygulaması 4 katlı küçük ve nezih bir 
 pansiyonun veritabanı destekli uygulamasıdır.Bu uygulamada müşteri 
 ekleme, silme ,güncelleme, arama gibi işlemler bulunmaktadır. Aynı işlemler 
