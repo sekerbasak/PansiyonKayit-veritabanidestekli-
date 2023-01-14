@@ -1,0 +1,50 @@
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon Kayıt Uygulaması.csproj.AssemblyReference.cache
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon Kayıt Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.Form1.resources
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.Properties.Resources.resources
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon Kayıt Uygulaması.csproj.GenerateResource.cache
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon Kayıt Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Pansiyon Kayıt Uygulaması.exe.config
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Pansiyon Kayıt Uygulaması.exe
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Pansiyon Kayıt Uygulaması.pdb
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon Kayıt Uygulaması.exe
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon Kayıt Uygulaması.pdb
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.frmMusteriEkle.resources
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Npgsql.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Buffers.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Memory.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Text.Json.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Threading.Channels.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.ValueTuple.dll
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\Npgsql.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Buffers.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Memory.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Text.Json.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Threading.Channels.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\bin\Debug\System.ValueTuple.xml
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon Kayıt Uygulaması.csproj.CopyComplete
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.frmAnasayfa.resources
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.frmOdalar.resources
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.frmPersoneller.resources
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.frmMusteriList.resources
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.frmHakkimizda.resources
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.frmResimler.resources
+C:\Users\ABC\Desktop\PANSİYON KAYIT UYGULAMASI\Pansiyon Kayıt Uygulaması\Pansiyon Kayıt Uygulaması\obj\Debug\Pansiyon_Kayıt_Uygulaması.FrmBosOdalar.resources
